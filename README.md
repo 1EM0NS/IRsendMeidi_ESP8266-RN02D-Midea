@@ -1,4 +1,4 @@
-# IRsendMeidi_ESP8266-RN02S-Midea <br>
+# IRsendMeidi_ESP8266-RN02D-Midea <br>
 对Arduino中IRremoteESP8266库美的空调控制的补充，主要依赖于IRremoteESP8266库的sendData()函数来实现数据的发送。<br>
 需配合Arduino中的IRremoteESP8266库使用。<br>
 主要控制采取的实际数据来源于美的空调RN02S13遥控器，空调型号为美的冷静星。<br>
